@@ -1,5 +1,6 @@
 # OS-alexis_ruiz
 Simulated Operating system 
+
 My main.cpp simulates with delay the boot process.
 
 i have a header file for my authenticater, i couldve done it without it but ive read its good practice to have a header 
