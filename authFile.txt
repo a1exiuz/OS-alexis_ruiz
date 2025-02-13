@@ -1,0 +1,3 @@
+alexisRuiz undergradstudent
+elviraTeran professor
+testUser testPassword
